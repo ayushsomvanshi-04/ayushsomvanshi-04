@@ -42,8 +42,7 @@ I'm an aspiring Data Analyst passionate about transforming raw data into meaning
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsomvanshi-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsomvanshi-04&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ⭐ Thank you for visiting my profile!
