@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/ayushsomvanshi-04/My-Portfolio/main/ChatGPT%20Image%20Jul%204,%202026,%2006_28_32%20PM.png" alt="Ayush Singh Banner" width="100%">
 </p>
 <br>
-# Hi there, I'm Ayush Singh 👋
-
-## 🚀 About Me
-
 ...
 
 # Hi there, I'm Ayush Singh 👋
